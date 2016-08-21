@@ -1,0 +1,113 @@
+body {
+	font: 12px Verdana;
+	color: black;
+	background-color: white;
+}
+.text_01 {
+	font: 12px Verdana;
+	color: white;
+}
+.text_02 {
+	font: 12px Verdana;
+	color: black;
+}
+.odkaz_n_01 {
+	font: bold 14px Verdana;
+	color: black;
+	text-decoration: none;
+}
+.odkaz_z_01 {
+	font: bold 14px Verdana;
+	color: black;
+	text-decoration: underline;
+}
+.odkaz_n_02 {
+	font: bold 14px Verdana;
+	color: white;
+	text-decoration: none;
+}
+.odkaz_z_02 {
+	font: bold 14px Verdana;
+	color: white;
+	text-decoration: underline;
+}
+.odkaz_n_03 {
+	font: bold 12px Verdana;
+	color: black;
+	text-decoration: none;
+}
+.odkaz_z_03 {
+	font: bold 12px Verdana;
+	color: black;
+	text-decoration: underline;
+}
+.pozadi_01 {
+  background-color: #010101;
+}
+.pozadi_02 {
+	background-color: #C7CCB8;
+}
+.pozadi_03 {
+	background-color: #DBDFCB;
+}
+.pozadi_04 {
+  background-image: url('obrazky/logo2.jpg');
+  background-repeat: no-repeat;
+}
+.pozadi_05 {
+	background-color: #f0f1f0;
+}
+.pozadi_06 {
+	background-color: white;
+}
+.pozadi_07 {
+  background-image: url('obrazky/logo3.jpg');
+  background-repeat: no-repeat;
+}
+.pozadi_08 {
+  background-image: url('obrazky/logo.jpg');
+  background-repeat: no-repeat;
+}
+.okraj_01 {
+  padding: 10px;
+  width: 830px;
+}
+.okraj_02 {
+  padding: 5px;
+}
+.okraj_03 {
+  padding: 10px;
+}
+.odsazeni_01 {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+.nadpis_01 {
+	font: bold 12px Verdana;
+	color: black;
+	text-decoration: underline;  
+}
+.ramecek_01 {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+}
+.tlacitko_01 {
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+  background-color: #010101;
+  font: bold 12px Verdana;
+  color: white;
+}
+.tlacitko_02 {
+  border-color: #010101;
+  border-style: solid;
+  border-width: 1px;
+  background-color: white;
+  font: bold 12px Verdana;
+  color: black;
+}
+.kurzor_01 {
+	cursor:pointer;
+}

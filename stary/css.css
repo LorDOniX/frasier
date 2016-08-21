@@ -1,0 +1,38 @@
+body {
+	font: 10px Verdana;
+	color: black;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.nastred {
+	text-align: center;
+}
+.tabulka {
+	font: 10px Verdana;
+	color: black;
+}
+.odkaz_n {
+	font: bold 10px Verdana;
+	color: black;
+	text-decoration: none;
+}
+.odkaz_z {
+	font: bold 10px Verdana;
+	color: red;
+	text-decoration: none;
+}
+.credits_cara {
+	width: 200px;
+	height: 1px;
+}
+.nadpis_sekce {
+	font: bold 10px Verdana;
+	color: black;
+	text-decoration: underline;
+}
+.ps_pozadi_jmena {
+	background-color: #D4D9C3;
+}
+.ps_pozadi_infa {
+	background-color: #BBBFAC;
+}
