@@ -1,0 +1,79 @@
+body {
+	font: 10px Verdana;
+	color: black;
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: white;
+	position: absolute;
+}
+.menu_obr {
+	width: 749px;
+	height: 93px;
+	background-image: url('obrazky\logo.jpg');
+	background-repeat: no-repeat;
+	position: relative;
+}
+.menu_odkazy {
+	margin-top: 1px;
+	margin-left: 0px;
+	width: 100px;
+	height: 23px;
+	padding: 4px;
+	text-align: center;
+	background-image: url('obrazky\odkaz.gif');
+	background-repeat: no-repeat;
+	position: relative;
+}
+.menu_zobrazeni {
+	margin-top: 1px;
+	margin-left: 0px;
+	width: 749px;
+	height: 600px;
+	padding: 10px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	position: relative;
+}
+.menu_credits {
+	margin-top: 1px;
+	margin-left: 0px;
+	width: 749px;
+	height: 10px;
+	padding: 1px;
+	background-color: gainsboro;
+	text-align: center;
+	position: relative;
+}
+.odkaz_mimo {
+	font: 10px Verdana;
+	text-decoration: none;
+	color: black;
+	position: relative;
+}
+.odkaz_na {
+	font: 10px Verdana;
+	text-decoration: none;
+	color: red;
+	position: relative;
+}
+.nadpis {
+	font: bold 12px Verdana;
+	text-decoration: underline;
+	color: red;
+	position: relative;
+}
+.nadpis2 {
+	font: bold 10px Verdana;
+	text-decoration: underline;
+	color: black;
+	position: relative;
+}
+.doprava {
+	text-align: right;
+	position: relative;
+}
+.nastred {
+	text-align: center;
+	position: relative;
+}	
